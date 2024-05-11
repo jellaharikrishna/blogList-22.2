@@ -1,0 +1,10 @@
+.blogsList-container {
+  margin: 10px;
+  padding: 0;
+}
+
+@media screen and (min-width: 992px) {
+  .blogsList-container {
+    width: 80%;
+  }
+}

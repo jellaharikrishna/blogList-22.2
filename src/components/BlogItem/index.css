@@ -1,0 +1,23 @@
+.blogitem-card {
+  list-style-type: none;
+  margin: 0;
+}
+.title-date-card {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-family: Roboto;
+}
+.publishedDate {
+  color: #9aa5b1;
+  font-family: Roboto;
+}
+.description {
+  color: #9aa5b1;
+  font-family: Roboto;
+}
+.hr-line {
+  color: #616e7c;
+}
